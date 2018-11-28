@@ -1,0 +1,1970 @@
+./bathroomSim 100 5 10 1000
+
+In this test there are 100 threads with an average of 5 loops. The average arrival time is 10 and stay time is 1000.
+This is the output of the test showing when people enter, wait, leave, and when the bathroom becomes vacant as well as the programs usual outputs.
+
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+
+Thread ID: 22447
+Loops: 4
+Gender: Female
+Average stay time: 1.
+Maximum queue time: 152.000000 microseconds
+Minimum queue time: 9.000000 microseconds
+Average queue time: 73.750000 microseconds
+
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Leaves
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+
+Thread ID: 22469
+Loops: 4
+Gender: Female
+Average stay time: 14.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.500000 microseconds
+
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22450
+Loops: 5
+Gender: Female
+Average stay time: 636.
+Maximum queue time: 164.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 67.200000 microseconds
+
+Female Enters
+Female Enters
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+
+Thread ID: 22448
+Loops: 5
+Gender: Female
+Average stay time: 939.
+Maximum queue time: 207.000000 microseconds
+Minimum queue time: 0.000000 microseconds
+Average queue time: 76.800000 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Leaves
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Leaves
+
+Thread ID: 22445
+Loops: 2
+Gender: Female
+Average stay time: 1390.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 8.000000 microseconds
+Average queue time: 8.000000 microseconds
+
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+
+Thread ID: 22459
+Loops: 3
+Gender: Female
+Average stay time: 691.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.333333 microseconds
+
+Female Leaves
+Female Leaves
+Female Leaves
+
+Thread ID: 22477
+Loops: 2
+Gender: Female
+Average stay time: 1243.
+Maximum queue time: 32.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 19.500000 microseconds
+
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Leaves
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+
+Thread ID: 22449
+Loops: 5
+Gender: Female
+Average stay time: 1308.
+Maximum queue time: 128.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 55.400000 microseconds
+
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+
+Thread ID: 22497
+Loops: 1
+Gender: Female
+Average stay time: 1893.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 8.000000 microseconds
+Average queue time: 8.000000 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+
+Thread ID: 22509
+Loops: 1
+Gender: Female
+Average stay time: 859.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 9.000000 microseconds
+Average queue time: 9.000000 microseconds
+
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22466
+Loops: 4
+Gender: Female
+Average stay time: 1139.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 8.000000 microseconds
+Average queue time: 8.250000 microseconds
+
+Female Leaves
+
+Thread ID: 22444
+Loops: 3
+Gender: Female
+Average stay time: 1954.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 1.000000 microseconds
+Average queue time: 5.333333 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+
+Thread ID: 22475
+Loops: 3
+Gender: Female
+Average stay time: 1581.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.666667 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+
+Thread ID: 22508
+Loops: 3
+Gender: Female
+Average stay time: 167.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.333333 microseconds
+
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22488
+Loops: 4
+Gender: Female
+Average stay time: 906.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.500000 microseconds
+
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+
+Thread ID: 22517
+Loops: 3
+Gender: Female
+Average stay time: 759.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.666667 microseconds
+
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22490
+Loops: 2
+Gender: Female
+Average stay time: 1451.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 9.000000 microseconds
+Average queue time: 9.000000 microseconds
+
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+
+Thread ID: 22486
+Loops: 5
+Gender: Female
+Average stay time: 816.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.400000 microseconds
+
+Female Leaves
+Female Leaves
+
+Thread ID: 22458
+Loops: 6
+Gender: Female
+Average stay time: 1211.
+Maximum queue time: 12.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 8.833333 microseconds
+
+Female Enters
+Female Leaves
+Female Leaves
+
+Thread ID: 22470
+Loops: 6
+Gender: Female
+Average stay time: 1427.
+Maximum queue time: 15.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 8.833333 microseconds
+
+Female Leaves
+
+Thread ID: 22472
+Loops: 6
+Gender: Female
+Average stay time: 939.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.833333 microseconds
+
+Female Leaves
+
+Thread ID: 22481
+Loops: 4
+Gender: Female
+Average stay time: 2083.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.250000 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22529
+Loops: 2
+Gender: Female
+Average stay time: 909.
+Maximum queue time: 38.000000 microseconds
+Minimum queue time: 8.000000 microseconds
+Average queue time: 23.000000 microseconds
+
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+
+Thread ID: 22499
+Loops: 4
+Gender: Female
+Average stay time: 1379.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 8.250000 microseconds
+
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22516
+Loops: 4
+Gender: Female
+Average stay time: 1064.
+Maximum queue time: 32.000000 microseconds
+Minimum queue time: 1.000000 microseconds
+Average queue time: 12.000000 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22493
+Loops: 4
+Gender: Female
+Average stay time: 580.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 7.250000 microseconds
+
+Female Enters
+Female Leaves
+
+Thread ID: 22494
+Loops: 5
+Gender: Female
+Average stay time: 804.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.600000 microseconds
+
+Female Leaves
+Female Leaves
+
+Thread ID: 22505
+Loops: 4
+Gender: Female
+Average stay time: 615.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 3.000000 microseconds
+Average queue time: 6.500000 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+
+Thread ID: 22530
+Loops: 3
+Gender: Female
+Average stay time: 804.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 7.333333 microseconds
+
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+
+Thread ID: 22453
+Loops: 7
+Gender: Female
+Average stay time: 1457.
+Maximum queue time: 16.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 9.714286 microseconds
+
+Female Leaves
+
+Thread ID: 22520
+Loops: 4
+Gender: Female
+Average stay time: 1164.
+Maximum queue time: 12.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 9.000000 microseconds
+
+Female Leaves
+
+Thread ID: 22471
+Loops: 7
+Gender: Female
+Average stay time: 1459.
+Maximum queue time: 10.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 8.000000 microseconds
+
+Female Leaves
+
+Thread ID: 22511
+Loops: 5
+Gender: Female
+Average stay time: 1344.
+Maximum queue time: 14.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 9.000000 microseconds
+
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+
+Thread ID: 22460
+Loops: 8
+Gender: Female
+Average stay time: 910.
+Maximum queue time: 17.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 10.000000 microseconds
+
+Female Enters
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22513
+Loops: 7
+Gender: Female
+Average stay time: 505.
+Maximum queue time: 14.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 8.428571 microseconds
+
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+
+Thread ID: 22480
+Loops: 9
+Gender: Female
+Average stay time: 1109.
+Maximum queue time: 28.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 10.333333 microseconds
+
+Female Leaves
+Female Leaves
+
+Thread ID: 22495
+Loops: 7
+Gender: Female
+Average stay time: 1226.
+Maximum queue time: 9.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 7.571429 microseconds
+
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Male waits in queue for female to leave bathroom
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+
+Thread ID: 22502
+Loops: 7
+Gender: Female
+Average stay time: 1415.
+Maximum queue time: 11.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 7.857143 microseconds
+
+Female Leaves
+
+Thread ID: 22526
+Loops: 8
+Gender: Female
+Average stay time: 1312.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 6.875000 microseconds
+
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+
+Thread ID: 22500
+Loops: 9
+Gender: Female
+Average stay time: 772.
+Maximum queue time: 12.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 8.000000 microseconds
+
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+
+Thread ID: 22532
+Loops: 7
+Gender: Female
+Average stay time: 1134.
+Maximum queue time: 23.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 10.857143 microseconds
+
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+
+Thread ID: 22514
+Loops: 7
+Gender: Female
+Average stay time: 1810.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 2.000000 microseconds
+Average queue time: 6.285714 microseconds
+
+Female Leaves
+Female Leaves
+
+Thread ID: 22442
+Loops: 6
+Gender: Female
+Average stay time: 1365.
+Maximum queue time: 8.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 7.333333 microseconds
+
+Female Leaves
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Leaves
+Female Leaves
+Female Leaves
+
+Thread ID: 22489
+Loops: 9
+Gender: Female
+Average stay time: 1791.
+Maximum queue time: 19.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 10.444444 microseconds
+
+Female Enters
+Female Leaves
+Female Enters
+Female Enters
+Female Enters
+Female Leaves
+Female Enters
+Female Leaves
+Female Leaves
+
+Thread ID: 22485
+Loops: 7
+Gender: Female
+Average stay time: 1275.
+Maximum queue time: 20.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 8.857143 microseconds
+
+Female Leaves
+
+Thread ID: 22535
+Loops: 7
+Gender: Female
+Average stay time: 1522.
+Maximum queue time: 24.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 10.000000 microseconds
+
+Female Enters
+Female Leaves
+
+Thread ID: 22537
+Loops: 8
+Gender: Female
+Average stay time: 987.
+Maximum queue time: 29.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 9.375000 microseconds
+
+Female Leaves
+Bathroom becomes vacant
+Male Enters
+Female waits in queue for male to leave bathroom
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22446
+Loops: 3
+Gender: Male
+Average stay time: 1145.
+Maximum queue time: 37896.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 12635.666667 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22451
+Loops: 3
+Gender: Male
+Average stay time: 2035.
+Maximum queue time: 35993.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 12002.666667 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22452
+Loops: 2
+Gender: Male
+Average stay time: 1010.
+Maximum queue time: 41718.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 20862.500000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22456
+Loops: 2
+Gender: Male
+Average stay time: 634.
+Maximum queue time: 46186.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 23096.000000 microseconds
+
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22455
+Loops: 6
+Gender: Male
+Average stay time: 757.
+Maximum queue time: 43963.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 7332.166667 microseconds
+
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22454
+Loops: 6
+Gender: Male
+Average stay time: 1387.
+Maximum queue time: 42667.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 7134.500000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22457
+Loops: 4
+Gender: Male
+Average stay time: 1253.
+Maximum queue time: 50119.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 12533.750000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22462
+Loops: 2
+Gender: Male
+Average stay time: 250.
+Maximum queue time: 59987.000000 microseconds
+Minimum queue time: 8.000000 microseconds
+Average queue time: 29997.500000 microseconds
+
+Male Leaves
+
+Thread ID: 22463
+Loops: 5
+Gender: Male
+Average stay time: 864.
+Maximum queue time: 55062.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 11016.200000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22465
+Loops: 4
+Gender: Male
+Average stay time: 1276.
+Maximum queue time: 68706.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 17180.250000 microseconds
+
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22464
+Loops: 9
+Gender: Male
+Average stay time: 1071.
+Maximum queue time: 63442.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 7056.222222 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22461
+Loops: 8
+Gender: Male
+Average stay time: 1853.
+Maximum queue time: 58021.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 7257.250000 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+
+Thread ID: 22467
+Loops: 3
+Gender: Male
+Average stay time: 774.
+Maximum queue time: 77145.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 25720.000000 microseconds
+
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22468
+Loops: 4
+Gender: Male
+Average stay time: 810.
+Maximum queue time: 78005.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 19505.500000 microseconds
+
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+
+Thread ID: 22479
+Loops: 6
+Gender: Male
+Average stay time: 324.
+Maximum queue time: 78900.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 13156.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22473
+Loops: 7
+Gender: Male
+Average stay time: 879.
+Maximum queue time: 81584.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 11662.000000 microseconds
+
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22476
+Loops: 3
+Gender: Male
+Average stay time: 2362.
+Maximum queue time: 84691.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 28233.666667 microseconds
+
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+
+Thread ID: 22478
+Loops: 5
+Gender: Male
+Average stay time: 346.
+Maximum queue time: 87067.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 17417.800000 microseconds
+
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22474
+Loops: 6
+Gender: Male
+Average stay time: 1281.
+Maximum queue time: 82923.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 13833.833333 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22484
+Loops: 6
+Gender: Male
+Average stay time: 964.
+Maximum queue time: 92376.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 15406.166667 microseconds
+
+Male Enters
+Male Leaves
+
+Thread ID: 22482
+Loops: 5
+Gender: Male
+Average stay time: 682.
+Maximum queue time: 96420.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 19288.400000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22443
+Loops: 2
+Gender: Male
+Average stay time: 985.
+Maximum queue time: 99281.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 49643.000000 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22483
+Loops: 4
+Gender: Male
+Average stay time: 133.
+Maximum queue time: 103185.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 25801.500000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22487
+Loops: 5
+Gender: Male
+Average stay time: 109.
+Maximum queue time: 102191.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 20443.400000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22503
+Loops: 4
+Gender: Male
+Average stay time: 336.
+Maximum queue time: 103720.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 25937.000000 microseconds
+
+Male Leaves
+
+Thread ID: 22522
+Loops: 3
+Gender: Male
+Average stay time: 433.
+Maximum queue time: 104958.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 34990.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22512
+Loops: 7
+Gender: Male
+Average stay time: 1119.
+Maximum queue time: 105131.000000 microseconds
+Minimum queue time: 1.000000 microseconds
+Average queue time: 15043.285714 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22523
+Loops: 5
+Gender: Male
+Average stay time: 1390.
+Maximum queue time: 108271.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 21658.600000 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22518
+Loops: 4
+Gender: Male
+Average stay time: 861.
+Maximum queue time: 116827.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 29215.500000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22519
+Loops: 2
+Gender: Male
+Average stay time: 797.
+Maximum queue time: 121964.000000 microseconds
+Minimum queue time: 8.000000 microseconds
+Average queue time: 60986.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22491
+Loops: 5
+Gender: Male
+Average stay time: 1409.
+Maximum queue time: 117942.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 23596.800000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22506
+Loops: 4
+Gender: Male
+Average stay time: 581.
+Maximum queue time: 126009.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 31564.500000 microseconds
+
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22501
+Loops: 7
+Gender: Male
+Average stay time: 221.
+Maximum queue time: 129007.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 18437.714286 microseconds
+
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22527
+Loops: 4
+Gender: Male
+Average stay time: 1203.
+Maximum queue time: 131578.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 32898.750000 microseconds
+
+Male Leaves
+
+Thread ID: 22507
+Loops: 2
+Gender: Male
+Average stay time: 930.
+Maximum queue time: 136392.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 68199.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22504
+Loops: 3
+Gender: Male
+Average stay time: 914.
+Maximum queue time: 134563.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 44858.666667 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22515
+Loops: 1
+Gender: Male
+Average stay time: 1477.
+Maximum queue time: 141238.000000 microseconds
+Minimum queue time: 141238.000000 microseconds
+Average queue time: 141238.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22492
+Loops: 2
+Gender: Male
+Average stay time: 1419.
+Maximum queue time: 138823.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 69415.000000 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22521
+Loops: 1
+Gender: Male
+Average stay time: 651.
+Maximum queue time: 145639.000000 microseconds
+Minimum queue time: 145639.000000 microseconds
+Average queue time: 145639.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+
+Thread ID: 22496
+Loops: 3
+Gender: Male
+Average stay time: 730.
+Maximum queue time: 149566.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 49858.000000 microseconds
+
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22498
+Loops: 5
+Gender: Male
+Average stay time: 367.
+Maximum queue time: 151934.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 30400.000000 microseconds
+
+Male Leaves
+
+Thread ID: 22524
+Loops: 7
+Gender: Male
+Average stay time: 821.
+Maximum queue time: 147605.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 21090.714286 microseconds
+
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22510
+Loops: 7
+Gender: Male
+Average stay time: 1383.
+Maximum queue time: 143665.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 20528.142857 microseconds
+
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22528
+Loops: 4
+Gender: Male
+Average stay time: 852.
+Maximum queue time: 154425.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 38611.250000 microseconds
+
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22531
+Loops: 2
+Gender: Male
+Average stay time: 1068.
+Maximum queue time: 152811.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 76408.000000 microseconds
+
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22525
+Loops: 6
+Gender: Male
+Average stay time: 1413.
+Maximum queue time: 155250.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 25880.000000 microseconds
+
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22540
+Loops: 2
+Gender: Male
+Average stay time: 608.
+Maximum queue time: 154654.000000 microseconds
+Minimum queue time: 20.000000 microseconds
+Average queue time: 77337.000000 microseconds
+
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+
+Thread ID: 22533
+Loops: 5
+Gender: Male
+Average stay time: 1288.
+Maximum queue time: 154605.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 30925.000000 microseconds
+
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Enters
+Male Leaves
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22534
+Loops: 3
+Gender: Male
+Average stay time: 880.
+Maximum queue time: 157495.000000 microseconds
+Minimum queue time: 7.000000 microseconds
+Average queue time: 52503.000000 microseconds
+
+Male Enters
+Male Enters
+Male Enters
+Male Leaves
+
+Thread ID: 22539
+Loops: 5
+Gender: Male
+Average stay time: 610.
+Maximum queue time: 157447.000000 microseconds
+Minimum queue time: 5.000000 microseconds
+Average queue time: 31495.600000 microseconds
+
+Male Leaves
+Male Leaves
+Bathroom becomes vacant
+Female Enters
+Male waits in queue for female to leave bathroom
+Male waits in queue for female to leave bathroom
+Female Leaves
+Bathroom becomes vacant
+
+Thread ID: 22538
+Loops: 9
+Gender: Female
+Average stay time: 1174.
+Maximum queue time: 149253.000000 microseconds
+Minimum queue time: 6.000000 microseconds
+Average queue time: 16593.222222 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22536
+Loops: 7
+Gender: Male
+Average stay time: 1197.
+Maximum queue time: 153164.000000 microseconds
+Minimum queue time: 4.000000 microseconds
+Average queue time: 22074.142857 microseconds
+
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+Male Enters
+Male Leaves
+Bathroom becomes vacant
+
+Thread ID: 22441
+Loops: 6
+Gender: Male
+Average stay time: 1798.
+Maximum queue time: 158800.000000 microseconds
+Minimum queue time: 10.000000 microseconds
+Average queue time: 26958.500000 microseconds
+
+Number of thread users executed: 100
+Total bathroom usages: 471
+Average queue length: 27.013760
+Average number of people in the bathroom: 2.283307
+
+Total time bathroom is occupied: 194484.000000 microseconds
+Total time bathroom is vacant: 7566.000000 microseconds
+
